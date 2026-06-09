@@ -1,7 +1,3 @@
-import { useContext } from "react";
-import UserContext from "../context/UserContext";
-import Welcome from "../components/Welcome";
-
 function Home() {
   return (
     <div className="container">
