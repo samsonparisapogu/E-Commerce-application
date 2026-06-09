@@ -1,6 +1,4 @@
-import { useContext } from "react";
-import UserContext from "../context/UserContext";
-import Welcome from "../components/Welcome";
+import React from "react";
 
 function Home() {
   return (
